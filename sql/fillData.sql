@@ -1,0 +1,4 @@
+INSERT INTO ROLES (role_name) VALUES
+  ('ADMIN'),
+  ('MODERATOR'),
+  ('COMMON_USER');

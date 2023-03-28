@@ -1,0 +1,15 @@
+const ROLES = {
+  ADMIN: 'ADMIN',
+  MODERATOR: 'MODERATOR',
+  COMMON_USER: 'COMMON_USER'
+};
+
+const SECRET_KEY_TYPE = {
+  REFRESH: 'REFRESH',
+  ACCESS: 'ACCESS'
+};
+
+module.exports = {
+  ROLES,
+  SECRET_KEY_TYPE
+};
